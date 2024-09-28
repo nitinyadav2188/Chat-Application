@@ -2,7 +2,7 @@ const MyMessage = () =>{
 
     return(
         <div>
-            MessageForm
+            MyMessage
         </div>
     )
 }
